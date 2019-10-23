@@ -1,0 +1,12 @@
+body {
+    background-repeat: no-repeat ;
+    background-position: center ;
+}
+
+.logo {
+    display: block;
+  margin-left: auto;
+  padding-bottom: 20px ;
+  margin-right: auto;
+  width: 25%;
+}
